@@ -27,7 +27,7 @@ Follow these steps to run the app locally on your machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-tracker-app.git
+git clone https://github.com/piyushga/job-tracker-app.git
 cd job-tracker-app
 ```
 
